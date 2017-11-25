@@ -3,6 +3,7 @@ The focus of the project will be to create software to analyze email and visuali
 
 Tools Needed
   -Python
+  
   -D3js
 
 
