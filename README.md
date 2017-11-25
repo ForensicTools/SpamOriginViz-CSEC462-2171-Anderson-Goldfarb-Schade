@@ -10,3 +10,17 @@ Tools Needed
   Brendon Anderson
   Ben Goldfarb
   Michael Schade
+
+
+
+#Usage
+
+-Install Python3.x.x
+-Download all the given files and store in same folder
+-Run from command line:
+  python3 getIMAP.py
+-The program will return the needed file called "mail.csv"
+-Once completed, open "bubbles.html" in your web browser
+-View results
+  -If you mouse over each "sender", you will see more information (ex. how many emails)
+  
